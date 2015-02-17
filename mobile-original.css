@@ -1,3 +1,10 @@
+#searchArea {
+  width: 100%; /*320px;*/
+  height: 45px;
+  margin: 5px 0px;
+  text-align: center;
+}
+
 #searchField {
   width: 70%;
   height: 28px;
